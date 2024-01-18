@@ -3,5 +3,6 @@ these are the brands in which my webb application is dealing
 NIKE
 ADIDAS
 PUMA
+asics
 
 
